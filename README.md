@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Forntend.
+- 🌱 I’m currently learning Frontend.
 - 📫 How to reach me: hanishukla7392@gmail.com
 
 ## 🛠️ Technologies & Tools
